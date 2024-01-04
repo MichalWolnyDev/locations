@@ -32,6 +32,138 @@
                     "date": "27 nov 2023 03:00 PM"
                   }
                 ]
+              },
+              {
+                "id": 0,
+                "name": "Lane 2",
+                "fullCapacity": 500,
+                "currentCapacity": 100,
+                "laneList": [
+                  {
+                    "id": 0,
+                    "name": "SK 1249K",
+                    "car": "Volkswagen Passat",
+                    "date": "24 nov 2023 03:00 PM"
+                  },
+                  {
+                    "id": 1,
+                    "name": "SK 5339L",
+                    "car": "Ford Mustang",
+                    "date": "27 nov 2023 03:00 PM"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Zone 2",
+            "fullCapacity": 4000,
+            "currentCapacity": 3000,
+            "lanes": [
+              {
+                "id": 0,
+                "name": "Lane 1",
+                "fullCapacity": 500,
+                "currentCapacity": 100,
+                "laneList": [
+                  {
+                    "id": 0,
+                    "name": "SK 2222K",
+                    "car": "Skoda Octavia",
+                    "date": "26 nov 2023 03:00 PM"
+                  },
+                  {
+                    "id": 1,
+                    "name": "SK 4449L",
+                    "car": "Ford Mustang",
+                    "date": "27 nov 2023 03:00 PM"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Location 2",
+        "fullCapacity": 8250,
+        "currentCapacity": 3465,
+        "zones": [
+          {
+            "id": 0,
+            "name": "Zone 1",
+            "fullCapacity": 2000,
+            "currentCapacity": 1000,
+            "lanes": [
+              {
+                "id": 0,
+                "name": "Lane 1",
+                "fullCapacity": 500,
+                "currentCapacity": 100,
+                "laneList": [
+                  {
+                    "id": 0,
+                    "name": "SK 5339K",
+                    "car": "Skoda Octavia",
+                    "date": "26 nov 2023 03:00 PM"
+                  },
+                  {
+                    "id": 1,
+                    "name": "SK 5339L",
+                    "car": "Ford Mustang",
+                    "date": "27 nov 2023 03:00 PM"
+                  }
+                ]
+              },
+              {
+                "id": 0,
+                "name": "Lane 2",
+                "fullCapacity": 500,
+                "currentCapacity": 100,
+                "laneList": [
+                  {
+                    "id": 0,
+                    "name": "SK 1249K",
+                    "car": "Volkswagen Passat",
+                    "date": "24 nov 2023 03:00 PM"
+                  },
+                  {
+                    "id": 1,
+                    "name": "SK 5339L",
+                    "car": "Ford Mustang",
+                    "date": "27 nov 2023 03:00 PM"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Zone 2",
+            "fullCapacity": 4000,
+            "currentCapacity": 3000,
+            "lanes": [
+              {
+                "id": 0,
+                "name": "Lane 1",
+                "fullCapacity": 500,
+                "currentCapacity": 100,
+                "laneList": [
+                  {
+                    "id": 0,
+                    "name": "SK 2222K",
+                    "car": "Skoda Octavia",
+                    "date": "26 nov 2023 03:00 PM"
+                  },
+                  {
+                    "id": 1,
+                    "name": "SK 4449L",
+                    "car": "Ford Mustang",
+                    "date": "27 nov 2023 03:00 PM"
+                  }
+                ]
               }
             ]
           }
